@@ -1,0 +1,5 @@
+Name	Contributions
+Jay Montoya	Initial execution planning, lots of lamport diagrams. Mechanism for importing client context and upating node values to maintain consistency. Decided on format of causal context and implementation. Did some work on vector clocks with skyler.
+Jake Forrester	Protocol planning, node adjustments for replication, work on view-change, other endpoint adjustments, testing
+Skyler Stewart 	Vector clock implementation/methods, help with debugging gossip flow problems, pair programming with Jay on implementation of vector clocks. 
+Karl Munson	initial execution planning, implemented gossip protocol, did testing for gossip and view change, debugging against public test script
